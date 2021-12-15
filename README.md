@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @neilgebhard.
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning fullstack...
-- 💞️ I’m looking to collaborate on open-source projects...
-- 📫 Reach me at neilgebhard at gmail dot com...
+- 👋 Hi, I’m Neil Gebhard, a full-stack engineer with a preference for front-end.
+
+- 🌱 I'm currently trying to master React, Next.js, Tailwind CSS, Node.js, Express, and MongoDB.
+
+- 💞️ I’m looking to collaborate on open-source projects.
+
+- 📫 Reach me at neilgebhard at gmail dot com.
 
 <!---
 neilgebhard/neilgebhard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
