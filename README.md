@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neil Gebhard, a full-stack engineer with a preference for front-end.
 
-- 🌱 I'm currently trying to master React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, and MongoDB.
+- 🌱 I'm currently mastering React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, and MongoDB.
 
 - 💞️ I’m looking to collaborate on open-source projects.
 
