@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Neil Gebhard, a full-stack engineer with a preference for front-end.
+# Hi, I'm Neil Gebhard
 
-- 🌱 I'm currently mastering React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, and MongoDB.
+👋 Welcome to my GitHub profile. I'm a full-stack engineer with a preference for front-end. I'm based in Saipan, USA.
 
-- 💞️ I’m looking to collaborate on open-source projects.
+🌱 The technologies I'm currently mastering are:
 
-- 📫 Reach me at neilgebhard at gmail dot com.
+- JavaScript
+- CSS
+- HTML
+- React
+- TypeScript
+- Tailwind CSS
+- React-testing-library
+- Cypress
+- Node.js
+- Express
+- MongoDB
+
+... and more! It's a never-ending learning process. I'm picking up new ideas everyday.
+
+📫 Feel free to reach me at neilgebhard at gmail dot com.
 
 <!---
 neilgebhard/neilgebhard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
