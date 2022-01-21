@@ -1,6 +1,6 @@
 # Hi, I'm Neil Gebhard
 
-👋 Welcome to my GitHub profile. I'm a full-stack engineer with a preference for front-end. I'm based in Saipan, USA.
+👋 Welcome to my GitHub profile. I'm a front-end engineer specializing in React. I'm based in Saipan, USA.
 
 🌱 The technologies I'm currently mastering are:
 
