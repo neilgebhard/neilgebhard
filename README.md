@@ -16,7 +16,7 @@
 - Express
 - MongoDB
 
-... and more! It's a never-ending learning process. I'm picking up new ideas everyday.
+... and more! It's a never-ending learning process.
 
 📫 Feel free to reach me at neilgebhard at gmail dot com.
 
