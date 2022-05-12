@@ -5,15 +5,9 @@
 
 - 🌱 I’m currently working with **Next.js, Prisma, Postgres**
 
-- 👨‍💻 My humble website is [https://www.neilgebhard.com](https://www.neilgebhard.com)
+- 👨‍💻 My little website is [https://www.neilgebhard.com](https://www.neilgebhard.com)
 
-- 📝 My list of simple blog articles are at [https://www.neilgebhard.com/blog](https://www.neilgebhard.com/blog)
-
-- 💬 Ask me about **JavaScript and React**
-
-- 📫 How to reach me **neilgebhard at gmail.com**
-
-- 📄 My resume is [here](https://drive.google.com/file/d/1259m3muZFfw88eZTFTTYuNY1O8-S2ERk/view)
+- 📫 Reach me at **neilgebhard at gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
