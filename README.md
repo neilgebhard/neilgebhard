@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 I’m currently working with **Next.js, Prisma, Postgres**
+- 🌱 I’m currently working with **Next.js, Tailwind, Prisma, Postgres**
 
 - 👨‍💻 My little website is [https://www.neilgebhard.com](https://www.neilgebhard.com)
 
