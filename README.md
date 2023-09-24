@@ -1,13 +1,8 @@
-<h1>Hi 👋, I'm Neil Gebhard.</h1>
-<h3>A software engineer from Saipan, USA</h3>
+<h1>Hello, I'm Neil Gebhard, a web developer currently residing in Saipan, USA.</h1>
 
 <br />
 
-- 🌱 I’m currently working with **Next.js, Tailwind, Prisma, Postgres**
-
-- 👨‍💻 My little website is [https://www.neilgebhard.com](https://www.neilgebhard.com)
-
-- 📫 Reach me at **neilgebhard at gmail.com**
+<p>I’m currently working with **Next.js, Tailwind, and Prisma. My website is [https://www.neilgebhard.com](https://www.neilgebhard.com) Reach me at **neilgebhard at gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
