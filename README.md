@@ -1,6 +1,6 @@
-<h1>Hello, I'm Neil Gebhard, a web developer currently residing in Saipan, USA.</h1>
+<h1>Hello, I'm Neil Gebhard!</h1>
 <br />
-<p>I’m currently working with **Next.js, Tailwind, and Prisma. My website is [https://www.neilgebhard.com](https://www.neilgebhard.com) Reach me at **neilgebhard at gmail.com**</p>
+<p>I'm a web developer currently residing in Saipan, USA. My personal tech stack consists of Next.js, Tailwind, and Prisma, but I'm always open and eager to learn new technologies. My website is [https://www.neilgebhard.com](https://www.neilgebhard.com). You can reach me at neilgebhard at gmail.com</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neil_gebhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neil_gebhard" height="30" width="40" /></a>
