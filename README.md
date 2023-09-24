@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Neil Gebhard.</h1>
-<h3 align="center">A software engineer from Saipan, USA</h3>
+<h1>Hi 👋, I'm Neil Gebhard.</h1>
+<h3>A software engineer from Saipan, USA</h3>
 
 <br />
 
