@@ -1,6 +1,5 @@
 <h1>Hello, I'm Neil Gebhard!</h1>
-<p>I'm a web developer currently residing in Saipan, USA.</p>
-<p>I'm currently working with Next.js, Tailwind, and Prisma.</p>
+<p>I'm a web developer currently residing in Salem, OR</p>
 <p>My website is https://www.neilgebhard.com.</p>
 <p>Feel free to reach me at neilgebhard at gmail.com.</p>
 <h3 align="left">Connect with me:</h3>
