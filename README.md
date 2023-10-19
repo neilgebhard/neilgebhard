@@ -1,8 +1,5 @@
-<h1>Hello, I'm Neil Gebhard!</h1>
-<p>I'm a software developer currently residing in Salem, OR</p>
-<p>My website is https://www.neilgebhard.com.</p>
-<p>Feel free to reach me at neilgebhard at gmail.com.</p>
-<h3 align="left">Connect with me:</h3>
+
+<p>https://www.neilgebhard.com.</p>
 <p align="left">
 <a href="https://twitter.com/neil_gebhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neil_gebhard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neilgebhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neilgebhard" height="30" width="40" /></a>
