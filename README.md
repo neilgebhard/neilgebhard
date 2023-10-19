@@ -1,5 +1,5 @@
 
-<p>https://www.neilgebhard.com.</p>
+<p>https://www.neilgebhard.com</p>
 <p align="left">
 <a href="https://twitter.com/neil_gebhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neil_gebhard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neilgebhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neilgebhard" height="30" width="40" /></a>
