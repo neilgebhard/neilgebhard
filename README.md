@@ -8,9 +8,9 @@ Full-stack developer specializing in React, Node.js, and modern web technologies
 - Contributing to open-source projects
 
 ## 💼 Recent Projects
-- **[Reddit Clone](link)** - Full-featured social platform with real-time updates
-- **[AI Therapist](link)** - Conversational AI application using OpenAI
-- **[Portfolio](link)** - Personal site built with Next.js
+- **[Reddit Clone](reddit-clone-next-supabase.vercel.app)** - Full-featured social platform with real-time updates
+- **[AI Therapist](ai-thera.vercel.app)** - Conversational AI application using OpenAI
+- **[Portfolio](https://neilgebhard.xyz)** - Personal site built with Next.js
 
 ## 🛠️ Tech Stack
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
@@ -20,7 +20,7 @@ Full-stack developer specializing in React, Node.js, and modern web technologies
 ## 📫 Let's Connect
 - Portfolio: [neilgebhard.xyz](https://neilgebhard.xyz)
 - Email: neil.gebhard@gmail.com
-- LinkedIn: [your-profile]
+- LinkedIn: [https://www.linkedin.com/in/neilgebhard/](https://www.linkedin.com/in/neilgebhard/)
 
 ---
 ⚡ Fun fact: I'm an AWS Solutions Architect Associate and love building things that solve real problems.
