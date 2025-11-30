@@ -5,7 +5,7 @@ Full-stack developer specializing in React, Node.js, and modern web technologies
 ## 🔭 Currently Working On
 - Building full-stack applications with Next.js and TypeScript
 - Exploring cloud architecture with AWS
-- Contributing to open-source projects
+- Mastering the usage of AI-assistive technologies
 
 ## 💼 Recent Projects
 - **[Reddit Clone](https://github.com/neilgebhard/reddit-clone)** - Full-featured social platform with real-time updates
