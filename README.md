@@ -23,4 +23,4 @@ Full-stack developer specializing in React, Node.js, and modern web technologies
 - LinkedIn: [https://www.linkedin.com/in/neilgebhard/](https://www.linkedin.com/in/neilgebhard/)
 
 ---
-⚡ Fun fact: I'm an AWS Solutions Architect Associate and love building things that solve real problems.
+⚡ Fun fact: I'm an AWS Solutions Architect Associate
