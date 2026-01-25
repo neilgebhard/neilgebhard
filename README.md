@@ -1,11 +1,11 @@
 # Hello, I'm Neil
 
-Full-stack developer specializing in React, Node.js, and modern web technologies.
+Full-stack developer specializing in React, Node, and modern web technologies.
 
 ## 🛠️ Tech Stack
-**Frontend:** React, Vue, JavaScript/TypeScript, Tailwind CSS
-**Backend:** Node, Next, Prisma, Express, SQL, NoSQL
-**Cloud:** AWS, Vercel
+- **Frontend:** React, Vue, JavaScript/TypeScript, Tailwind CSS
+- **Backend:** Node, Next, Prisma, Express, SQL, NoSQL
+- **Cloud:** AWS, Vercel
 
 ## 💼 Recent Projects
 - **[Instagram Clone](https://github.com/neilgebhard/instagram-clone)** - Full-featured photo-sharing platform
@@ -22,6 +22,6 @@ Full-stack developer specializing in React, Node.js, and modern web technologies
 - LinkedIn: [https://www.linkedin.com/in/neilgebhard/](https://www.linkedin.com/in/neilgebhard/)
 
 ## Certs
-AWS Solutions Architect Associate
-Network+
-Security+
+- AWS Solutions Architect Associate
+- Network+
+- Security+
